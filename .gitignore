@@ -1,0 +1,44 @@
+# Rust
+/target
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Data files
+/data/tpch/*.tbl
+/data/params/*.bin
+/data/params/*.json
+/data/commitments/*.json
+*.db
+*.sqlite
+/docs
+/halo2
+
+# Test outputs
+/target/criterion
+test_results/
+benchmarks/
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# OS specific
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+.env.local
+
