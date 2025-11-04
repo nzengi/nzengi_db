@@ -198,5 +198,7 @@ This is a research implementation. For production use, consider:
 
 ## License
 
-See LICENSE file for details.
+This software is licensed under a Non-Commercial License. See LICENSE file for details.
+
+**Commercial use is prohibited** without obtaining a separate commercial license from the copyright holders.
 

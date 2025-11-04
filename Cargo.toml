@@ -5,7 +5,7 @@ edition = "2021"
 authors = ["NzengiDB Team"]
 description = "Efficient Non-interactive Zero-Knowledge Proofs for Arbitrary SQL-Query Verification"
 repository = "https://github.com/yourusername/nzengi_db"
-license = "MIT OR Apache-2.0"
+license-file = "LICENSE"
 keywords = ["zero-knowledge", "zkp", "database", "sql", "cryptography"]
 categories = ["cryptography", "database"]
 
